@@ -1,3 +1,5 @@
+Видео работы приложения: https://cloud.mail.ru/public/aXEN/ZQZFLUWR7
+
 Замените строку с API_URL на ваш IP компьютера
 
 mobile/App.js
