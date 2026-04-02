@@ -1,0 +1,34 @@
+# Node
+node_modules/
+package-lock.json
+npm-debug.log
+
+# Expo / React Native
+.expo/
+.expo-shared/
+.expo-instant/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Build outputs
+dist/
+build/
+*.apk
+*.ipa
+
+# Logs
+*.log
+
+# Local env
+.env
+.env.local
+
+# Docker / K8s
+*.tar
+.kube/
